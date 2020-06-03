@@ -4,8 +4,12 @@
 
 作者博客: http://www.lzonel.cn/
 
+所用的Dll在Debug里面有,自行引用
+
 支持 手机号+密码 或 学校代码+学号+密码 登录
+
 学校代码: http://oss-public.lzonel.cn/public-lzss/Wits_lzss_School_ID.html
+
 三种刷课模式:
 
 正常模式: 1倍速,顾名思义和正常网页观看视频一样, 每节课提交3种数据(安全)
