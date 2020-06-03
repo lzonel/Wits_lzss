@@ -1,5 +1,5 @@
 # Wits_lzss
-智慧树,刷课,协议,一键刷,秒刷,C#.net4.6.1,免费,free
+智慧树,刷课,post,get,协议,一键刷,秒刷,C#.net4.6.1,免费,free
 作者博客: http://www.lzonel.cn/
 
 三种刷课模式:
